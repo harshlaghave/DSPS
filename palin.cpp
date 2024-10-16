@@ -63,4 +63,4 @@ int main() {
     return 0;
 }
 
-Modified version stack palindrome code.
+
